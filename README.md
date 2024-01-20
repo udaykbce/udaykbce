@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Data Analysis, Machine Learning, Python, SQL, Excel**
+- 💬 Ask me about **Data Analysis, Machine Learning, Python, SQL**
 
 - 📫 How to reach me **udaybce@gmail.com**
 
