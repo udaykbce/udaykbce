@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykbce&label=Profile%20views&color=0e75b6&style=flat" alt="udaykbce" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and AWS**
+- 🌱 I’m currently learning **Azure Data Engineering**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
