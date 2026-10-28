@@ -1,4 +1,4 @@
-![logo](https://github.com/udaykbce/udaykbce/blob/main/github-header-image%20(1).png)
+![logo]((https://github.com/udaykbce/headder_image2/blob/main/1773992089301.jpg))
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
